@@ -1,0 +1,52 @@
+MOBILE COMPUTING - CELLULAR NETWORK PLANNER
+================================================
+TASK 1: CHANNEL ALLOCATION
+Total channels: 336
+Reuse cluster size: 7
+Channels per cell: 48
+
+TASK 2: HEXAGONAL REUSE
+For i=2, j=1, N = 7
+Reuse ratio Q = 4.583
+
+TASK 3: ERLANG-B CAPACITY
+Offered traffic at 2% blocking: 38.392 Erlangs/cell
+Blocking verification: 0.02
+Carried traffic: 37.624 Erlangs/cell
+Subscriber equivalent: 1536
+
+TASK 4: SIR RESULTS
+n = 2.5 SIR = 8.75 dB
+n = 3.0 SIR = 12.05 dB
+n = 3.5 SIR = 15.36 dB
+n = 4.0 SIR = 18.66 dB
+
+TASK 5: CELL COUNT AND CAPACITY
+R = 0.5 km | cells = 19 | capacity = 729.44 Erlangs | subscribers = 29178
+R = 0.25 km | cells = 74 | capacity = 2840.98 Erlangs | subscribers = 113639
+
+TASK 6: SUBSCRIBER TRAFFIC
+1000 subscribers -> 25.0 Erlangs
+10000 subscribers -> 250.0 Erlangs
+20000 subscribers -> 500.0 Erlangs
+100000 subscribers -> 2500.0 Erlangs
+
+TASK 7: CHANNEL BORROWING
+ACCEPT: preferred channel
+ACCEPT: borrowed channel
+BLOCK: no safe channel
+
+TASK 8: CELL SPLITTING
+Initial macro capacity: 729.44 Erlangs
+Demand: 2500.0 Erlangs
+Ideal split rounds: 1
+Capacity after splitting: 2917.76 Erlangs
+
+TASK 9: STADIUM EVENT
+Event traffic: 1250.0 Erlangs
+Required cell-equivalents: 33
+Estimated capacity: 1266.92 Erlangs
+
+TASK 10: RECOMMENDATION
+Use N=7, 48 channels/cell, 0.50 km macro radius,
+selective microcells, sectorisation and safe channel borrowing.

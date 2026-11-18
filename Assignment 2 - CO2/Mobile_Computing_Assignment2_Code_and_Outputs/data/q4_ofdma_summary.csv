@@ -1,0 +1,4 @@
+allocation_method,mean_sum_spectral_efficiency,mean_jain_fairness
+best_subcarrier,299.926,0.9012
+fixed_contiguous,186.067,0.9782
+interleaved,186.187,0.9781

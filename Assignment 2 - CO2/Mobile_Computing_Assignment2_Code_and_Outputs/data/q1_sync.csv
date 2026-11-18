@@ -1,0 +1,4 @@
+availability_pct,immediate_delivered,immediate_lost,queued_delivered,queued_delayed,queued_lost,mean_queue_delay_min
+90,904,96,1000,98,0,0.107
+60,611,389,1000,399,0,0.644
+30,340,660,1000,697,0,2.226

@@ -1,0 +1,10 @@
+spreading_length,users,condition,bits,errors,BER,processing_gain_db
+8,8,walsh_sync,10000,24,0.0024,9.03
+8,8,random_codes,10000,2140,0.214,9.03
+8,8,near_far_10x,10000,16,0.0016,9.03
+16,8,walsh_sync,10000,18,0.0018,12.04
+16,8,random_codes,10000,656,0.0656,12.04
+16,8,near_far_10x,10000,16,0.0016,12.04
+64,8,walsh_sync,10000,25,0.0025,18.06
+64,8,random_codes,10000,229,0.0229,18.06
+64,8,near_far_10x,10000,18,0.0018,18.06

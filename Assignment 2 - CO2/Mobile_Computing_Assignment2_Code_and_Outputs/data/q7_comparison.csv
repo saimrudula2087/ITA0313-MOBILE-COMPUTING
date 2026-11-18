@@ -1,0 +1,5 @@
+sensors,original_resource_units,redesigned_batches,reduction_pct,payload_bytes_per_min
+100,100,1,99.0,20000
+1000,1000,10,99.0,200000
+5000,5000,50,99.0,1000000
+10000,10000,100,99.0,2000000

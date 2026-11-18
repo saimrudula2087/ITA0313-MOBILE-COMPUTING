@@ -1,0 +1,9 @@
+scenario,method,effective_channels,mean_utilization,blocking_fraction,wasted_fraction
+steady_voice,FDMA,72,0.8,0.0001,0.2
+steady_voice,TDMA,70,0.8231,0.0005,0.1769
+bursty_10pct,FDMA,72,0.1123,0.0,0.8877
+bursty_10pct,TDMA,70,0.1167,0.0,0.8833
+mixed_voice_data,FDMA,72,0.5714,0.0,0.4286
+mixed_voice_data,TDMA,70,0.5908,0.0,0.4092
+synchronized_edge,FDMA,72,0.9698,0.0316,0.0302
+synchronized_edge,TDMA,70,0.9797,0.0461,0.0203

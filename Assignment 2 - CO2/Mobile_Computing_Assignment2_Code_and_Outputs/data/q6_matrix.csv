@@ -1,0 +1,5 @@
+deployment,SDMA,TDMA,FDMA,CDMA,OFDMA
+wide_area_voice,3.05,3.15,2.7,3.5,4.15
+tactical_link,2.85,2.5,2.5,3.75,3.5
+stadium_downlink,3.3,2.5,2.5,2.65,4.15
+low_rate_sensors,2.4,2.75,2.5,3.3,3.1
